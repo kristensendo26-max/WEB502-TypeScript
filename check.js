@@ -9,4 +9,4 @@ function checkSnt(so) {
     }
     return true;
 }
-console.log(checkSnt(1));
+console.log(checkSnt(3));
