@@ -39,7 +39,7 @@ speech(sum(5, 12));
 console.log(speech(sum(8, 5)));
 // 2. Never & void 
 // let something: void = undefined;
-// let nothing: never = null; // Error: Type 'null' is not assignable to type 'never'
+// let nothing: never = null; // Error: Type 'null' is not assignable to type 'never'Ba
 // function throwError(errorMsg: string):never{
 //     throw new Error(errorMsg);
 // }
